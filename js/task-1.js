@@ -30,13 +30,13 @@ console.log(
         },
        {
             name: "Blackburn Dotson",
-            email: "blackburndotson@furngeer.com",
+            email: "blackburndotson@furnigeer.com",
             balance: 1498
         },
         {
-            name: "Shere Anthony",
-       email: "shereanthony@kog.com",
+            name: "Sheree Anthony",
+       email: "shereeanthony@kog.com",
        balance: 2764
         },
     ])
-);//[ " Moore Hensley", "Sharlene Bush","Ross Vazquez","Elma Head","Carey Barr","Blackburn Dotson","Shere Anthony"]
+);//[ " Moore Hensley", "Sharlene Bush","Ross Vazquez","Elma Head","Carey Barr","Blackburn Dotson","Sheree Anthony"]
